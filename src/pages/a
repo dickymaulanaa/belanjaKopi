@@ -1,0 +1,7 @@
+<div className="d-flex">
+     <input type="checkbox" id="honeyYellow" name="honeyYellow" value="honeyYellow" />
+     <div className="d-flex justify-content-between w-100 m-1">
+          <label for="honeyYellow">honeyYellow</label>
+          <label> (18)</label>
+     </div>
+</div>
